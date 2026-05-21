@@ -32,7 +32,8 @@ This portfolio showcases my skills, projects, achievements, and frontend develop
 
 # 📸 Preview
 
-<img width="1836" height="5301" alt="Screenshot 2026-05-21 at 23-44-22 Suraj Kumar Frontend Developer" src="https://github.com/user-attachments/assets/445d183b-ae01-433e-a038-3727f2e44a69" />
+<img width="1836" height="5301" alt="image" src="https://github.com/user-attachments/assets/c303da19-a2a0-4289-b488-9a1510204cfb" />
+
 
 # 📂 Project Structure
 
