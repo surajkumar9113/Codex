@@ -1,8 +1,8 @@
 # 🚀 Codex — Frontend Developer Portfolio
 
-<p align="center">
-  <img src="preview.png" alt="Codex Portfolio Preview" width="100%">
-</p>
+<div class="hero-logo">
+    <img src="codex logo.png" alt="Codex Institute Logo">
+</div>
 
 <p align="center">
   <strong>A modern, responsive, and interactive frontend developer portfolio built with HTML, CSS, and JavaScript.</strong>
@@ -71,9 +71,9 @@ https://surajkumar9113.github.io/Codex/
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="preview.png" alt="Codex Portfolio Screenshot" width="100%">
-</p>
+<div class="hero-logo">
+    <img src="codex logo.png" alt="Codex Institute Logo">
+</div>
 
 ---
 
