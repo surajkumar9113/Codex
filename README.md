@@ -1,72 +1,93 @@
-# 🚀 Codex - Frontend Developer Portfolio
+# 🚀 Codex — Frontend Developer Portfolio
 
-A modern and responsive personal portfolio website built using **HTML5, CSS3, and JavaScript**.  
-This portfolio showcases my skills, projects, achievements, and frontend development journey with smooth UI animations and responsive design.
+<p align="center">
+  <img src="preview.png" alt="Codex Portfolio Preview" width="100%">
+</p>
+
+<p align="center">
+  <strong>A modern, responsive, and interactive frontend developer portfolio built with HTML, CSS, and JavaScript.</strong>
+</p>
+
+<p align="center">
+  <a href="https://surajkumar9113.github.io/Codex/">🌐 Live Demo</a> •
+  <a href="https://github.com/surajkumar9113/Codex">📂 Source Code</a>
+</p>
+
+---
+
+## 📌 About The Project
+
+**Codex** is a personal portfolio website designed to showcase my journey as a frontend developer, including my skills, projects, achievements, and development experience.
+
+The website focuses on a clean and modern UI, smooth animations, responsive layouts, and an engaging user experience across desktop, tablet, and mobile devices.
+
+---
 
 ## 🌐 Live Demo
 
-🔗 https://surajkumar9113.github.io/Codex/
+🔗 **Portfolio:**  
+https://surajkumar9113.github.io/Codex/
 
-# ✨ Features
+---
 
-- ✅ Fully Responsive Design
-- ✅ Modern UI/UX
-- ✅ Dark Mode Toggle
-- ✅ Typing Animation Effect
-- ✅ Smooth Scroll Animation
-- ✅ Project Showcase Section
-- ✅ Achievement Counter
-- ✅ Mobile Friendly Layout
-- ✅ Interactive Navigation Bar
-- ✅ Contact Form UI
-- ✅ Animated Cards & Hover Effects
+## ✨ Features
 
-# 🛠️ Technologies Used
+- 🎨 Modern and clean UI/UX
+- 📱 Fully responsive design
+- 🌙 Dark mode toggle
+- ⌨️ Dynamic typing animation
+- 🧭 Interactive navigation bar
+- 📜 Smooth scrolling
+- 🎬 Scroll-based animations
+- 💼 Project showcase section
+- 🏆 Animated achievement counters
+- ✨ Interactive hover effects
+- 📱 Mobile-friendly navigation
+- 📩 Contact form UI
+- ⚡ Fast and lightweight frontend
+- 🎯 User-friendly layout and navigation
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- Font Awesome
-- AOS Animation Library
-- Particles.js
+---
 
-# 📸 Preview
+## 🛠️ Technologies & Tools
 
-<img width="1836" height="5301" alt="image" src="https://github.com/user-attachments/assets/c303da19-a2a0-4289-b488-9a1510204cfb" />
+### Frontend
 
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Website structure |
+| CSS3 | Styling, animations & responsive design |
+| JavaScript (ES6) | Interactivity & dynamic functionality |
 
-# 📂 Project Structure
+### Libraries & Tools
 
-```bash
+- 🎨 **Font Awesome** — Icons
+- ✨ **AOS** — Scroll animations
+- 🌌 **Particles.js** — Interactive background effects
+- 🐙 **Git & GitHub** — Version control and deployment
+- 🚀 **GitHub Pages** — Website hosting
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="preview.png" alt="Codex Portfolio Screenshot" width="100%">
+</p>
+
+---
+
+## 📂 Project Structure
+
+```text
 Codex/
 │
-├── index.html
-├── style.css
-├── script.js
-├── favicon.png
-├── preview.png
-├── my-logo.jpg
-└── README.md
-
-📱 Responsive Design
-This website is optimized for:
-Desktop 💻
-Tablet 📱
-Mobile 📱
-
-📌 Future Improvements
-Add Backend Contact Form
-Add React Version
-Add Blog Section
-Add More Animations
-Improve SEO Optimization
-
-👨‍💻 Author
-Suraj Kumar
-
-Frontend Developer passionate about creating modern, responsive, and interactive websites.
-
-Connect With Me
-GitHub: https://github.com/surajkumar9113
-LinkedIn: www.linkedin.com/in/suraj-kumar-331a58349/
-Portfolio: https://surajkumar9113.github.io/Codex/
+├── index.html          # Main portfolio page
+├── style.css           # Website styling & responsive design
+├── script.js           # JavaScript functionality
+│
+├── favicon.png         # Website favicon
+├── preview.png         # Portfolio preview image
+├── my-logo.jpg         # Personal logo
+│
+└── README.md           # Project documentation
